@@ -1,0 +1,10 @@
+h1{color: darkolivegreen;font-style: initial;font-size: xx-large;font-weight: 300;}
+
+   h2{color: darkolivegreen;font-style: normal;}
+   body{background-color: beige;}
+   p{font-size: medium;}
+
+   .my-image-style {
+    margin: 0;
+    padding: 0;
+   }
